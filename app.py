@@ -510,7 +510,7 @@ def process_user_query(user_input):
 
 # Streamlit App
 def main():
-    st.set_page_config(page_title="LinkedIn Profile Analyzer", layout="wide")
+    st.set_page_config(page_title="LinkedIn Profile Analyzer", layout="wide",initial_sidebar_state = "expanded")
     
     st.title("🔗 LinkedIn Profile Analyzer")
     st.markdown("Analyze your LinkedIn profile and get personalized career guidance!")
