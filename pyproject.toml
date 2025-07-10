@@ -1,0 +1,12 @@
+[project]
+name = "linked-multiagent-optimizer"
+version = "0.1.0"
+description = "An optimization framework for LinkedIn data using Google GenAI and Apify."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "apify-client>=1.12.0",
+    "google-genai>=1.24.0",
+    "google-generativeai>=0.8.5",
+    "streamlit>=1.46.1",
+]
