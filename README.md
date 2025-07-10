@@ -1,7 +1,7 @@
 # LinkedIn Profile Analyzer 🔗
 
 A comprehensive AI-powered LinkedIn profile analysis and optimization tool that provides personalized career guidance, content optimization, and job fit analysis using Google's Gemini AI and Apify web scraping.
-
+![Banner](photo.png)
 ## Features ✨
 
 ### 🔍 Profile Analysis
